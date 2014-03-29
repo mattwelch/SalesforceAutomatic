@@ -12,6 +12,16 @@
         <members>*</members>
         <name>CustomApplication</name>
     </types>
+    <types>
+        <members>Vehicle__c</members>
+        <members>Trip__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Vehicle__c-Vehicle Layout</members>
+        <members>Trip__c-Trip Layout</members>
+        <name>Layout</name>
+    </types>
 	<types>
 		<members>*</members>
 		<name>StaticResource</name>

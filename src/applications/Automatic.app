@@ -6,4 +6,5 @@
     <logo>Automatic_Assets/Automatic_Logo.png</logo>
     <tab>Vehicle__c</tab>
     <tab>Trip__c</tab>
+    <tab>Automatic_Authorize</tab>
 </CustomApplication>
