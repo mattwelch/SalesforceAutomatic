@@ -3,7 +3,7 @@
 * Redirect user to Automatic OAuth page
 ***************************************/
 public with sharing class AutomaticAuthorizeCtrl {
-	private static final String AUTOMATIC_CLIENT_ID='ENTER_AUTOMATIC_CLIENT_ID_HERE';
+	private static final String AUTOMATIC_CLIENT_ID=AutomaticAPI__c.getInstance().client_id__c;
 
 	public AutomaticAuthorizeCtrl() {
 	}
